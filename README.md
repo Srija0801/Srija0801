@@ -91,7 +91,7 @@ A platform that connects users to share skills and learn from each other.
 
 **Tech:** React.js, Node.js, Express.js, MongoDB, Socket.io.
 
-###  Candidate Tracking System
+###  [Candidate Tracking System] (https://github.com/Srija0801/candidate-tracking-system)
 A recruitment management application for managing candidate information.
 
 - Secure JWT-based authentication.
